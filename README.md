@@ -25,3 +25,10 @@ Mi principal objetivo en estos últimos meses es consolidar todo lo aprendido y 
   
 ### 📈 Objetivos Profesionales
 Mi objetivo es ser una desarrolladora Full Stack capaz de manejar proyectos completos, desde el diseño de la interfaz hasta la implementación del backend. A medida que termino mi carrera, estoy enfocada en aplicar mis conocimientos en proyectos reales y continuar aprendiendo para enfrentar los retos del desarrollo web de manera efectiva.
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
